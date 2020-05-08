@@ -1,5 +1,5 @@
 # SlackDrawing
-Bots for drawing svg images in slack
+Bots for drawing svg images in slack. Very dangerous because this does clicking all over your window and is difficult to stop once you start it. Use with caution. Command-tab quickly to get back to your terminal and press ctrl-c may be important.
 
 Install dependencies:
 
