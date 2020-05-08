@@ -4,7 +4,7 @@ Bots for drawing svg images in slack. Very dangerous because this does clicking 
 Install dependencies:
 
 ```
-pip -r svg.path pyautogui
+pip3 -r svg.path pyautogui
 ```
 
 You also may need to give terminal permission to control your mouse. 
