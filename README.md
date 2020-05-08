@@ -9,7 +9,7 @@ pip -r svg.path pyautogui
 
 You also may need to give terminal permission to control your mouse. 
 
-To make the lines file from svg:
+To make the lines file from svg (intermediate file format used for storing the mouse movements for drawing an svg, since the process to get points from svg is too slow to be used in real time)
 
 ```
 python3 makeLines.py input.svg output.lines
