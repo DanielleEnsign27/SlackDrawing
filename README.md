@@ -23,6 +23,6 @@ To make a bot draw a lines file, scaled twice as big (adjust scale according to 
 python3 drawThing.py output.lines 2.0
 ```
 
-Then quickly move your mouse to the offset position (usually at the top of the screen above where you want to draw) and in two sections the drawing will start. It may require some experimentation to figure out how to get it to draw properly.
+Then quickly move your mouse to the offset position (usually at the top of the screen above where you want to draw) and in two seconds the drawing will start. It may require some experimentation to figure out how to get it to draw properly.
 
 Once you find good values, it may be useful to just make a script to draw a specific thing. drawFire.py contains an example usage of this.
